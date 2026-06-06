@@ -46,6 +46,10 @@ A modern React-based nail salon website featuring appointment booking, gallery s
 
 ![Dashboard Page](screenshots/DashboardPage.png)
 
+## Live Demo
+
+https://nail-appointment-system-liard.vercel.app
+
 ## Future Improvements
 
 * Backend database integration
